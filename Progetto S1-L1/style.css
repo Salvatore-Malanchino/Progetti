@@ -1,0 +1,250 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:ital@1&display=swap');
+
+  body{
+    background-color:; 
+    font-family: 'Open Sans', sans-serif;
+line-height:  1.65;
+max-width: 450px;
+margin: auto;
+  
+  }
+
+main{
+    display: block inline;
+    max-width: 450px;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 0 3px 3px #444;
+}
+  h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #25a2c3 ;
+     
+}
+
+h2{
+font-size: 1.5em;
+color:#25a2c3;
+font-weight: 700;
+
+}
+
+
+p{
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+    
+
+}
+
+
+
+header{
+    
+    margin-bottom: 0em;
+    line-height:  2;
+    
+
+
+}
+header #sfondo{background-image: url(./assets/banner.jpg) ; 
+    text-align: center;
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px 0px 2em 0px;
+}
+
+header .classheader{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+
+
+
+    
+header .titolo{
+    padding-top: 0em;
+    
+}
+    
+    
+
+
+header .logo{
+    width: 11em;
+    height: 3em;
+    padding-left: 2em;
+    padding-bottom: 1.5em;
+    padding-top: 1em;
+    margin-bottom: 0em;
+      
+}
+header #logo{
+    background-color: black;
+}
+header  .button{
+   color: white;
+    border: solid  #f04c2f;
+    background-color: #f04c2f;
+    width: 8em;
+    margin-left: 9em;
+    margin-top: 2em;
+    padding-top: 0em;
+    border-radius: 6%;
+    font-family:  'Montserrat' , sans-serif ;
+    font-weight: 700;
+
+}
+.notebook{
+    
+    border-radius: 60%;
+    width: 70%;
+
+}
+ 
+
+.primoparagrafo{
+padding-top: 2em;
+margin-left: 2em;
+margin-right: 2em;
+}
+.rosso{
+    border: solid red;
+    background-color: red;
+    margin-left: 0;
+    margin-right: 0;
+}
+.rosso h1{
+    color: white;
+    padding-top: 2em;
+}
+.rosso p{
+    color: white;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.rosso h2{
+    color: white;
+}
+#immagine1{
+    margin-top: 3em;
+border: solid #dee1e3 1px;
+height: 28em;
+background-position-y: 0px;
+margin-left: 2em;
+margin-right: 2em;
+
+}
+
+ .immagineb{
+    background-image: url(./assets/foto1.jpg);
+    text-align: center;
+    padding: 180px 0 70px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-position-y: 0px
+ }
+
+#immagine1 .testo1{
+    padding-top:  0px;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+#immagine2{
+    margin-top: 3em;
+border: solid #dee1e3 1px;
+height: 28em;
+margin-left: 2em;
+margin-right: 2em;
+
+}
+
+ .immaginec{
+    background-image: url(./assets/foto2.jpg);
+    text-align: center;
+    padding: 180px 0 70px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-position-y: 0px
+    
+ }
+
+#immagine2 .testo2{
+    padding-top: 0em;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+#immagine3{
+    margin-top: 3em;
+border: solid #dee1e3 1px;
+height: 28em;
+margin-left: 2em;
+margin-right: 2em;
+
+}
+
+ .immagined{
+    background-image: url(./assets/foto3.jpg);
+    text-align: center;
+    padding: 180px 0 70px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-position-y: 0px
+ }
+
+#immagine3 .testo3{
+    padding-top: 0em;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+footer{
+    border: solid #25a2c3;
+    background-color: #25a2c3;
+    color: white;
+    padding-left: 6em;
+    
+    
+
+}
+
+
+footer h1{
+    color: white;
+    padding-top: 2em;
+}
+footer hr{
+    margin-right: 10em;
+    margin-left: 10em;
+    margin-top: 2em ;
+    margin-bottom: 2em;
+}
+footer span{
+    font-size: 1em;
+}
+.disperazione{
+    font-size: 19px;
+}
